@@ -1,7 +1,6 @@
-#These functions calculate the inverse of a matrix and saves it
-#to the cache. Therefore  next time when the user tries to calculate the
-# matrix inverse, the previously saved value is returned instead of
-# repeating the calculation.
+#These functions calculate the inverse of a matrix and saves it to the cache. 
+#Therefore  next time when the user tries to calculate the matrix inverse, 
+#the previously saved value is returned instead of repeating the calculation.
 
 #The first function makeCacheMatrix creates a special matrix object 
 #that can cache its inverse, and is a list containing a function to-

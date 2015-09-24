@@ -1,3 +1,4 @@
+#Programming Assignment 2: LEXICAL SCOPING
 #These functions calculate the inverse of a matrix and saves it to the cache. 
 #Therefore  next time when the user tries to calculate the matrix inverse, 
 #the previously saved value is returned instead of repeating the calculation.
